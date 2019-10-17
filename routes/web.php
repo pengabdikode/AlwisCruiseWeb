@@ -13,5 +13,5 @@
 
 require 'admin.php';
 
-Route::view('/tes', 'site.tes');
+Route::view('/', 'site.tes');
 
