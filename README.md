@@ -1,4 +1,4 @@
-<p align="center"><img src="https://imgur.com/a/Dpj1lkD"></p>
+<p align="center"><img src="https://imgur.com/u6Q0xBR"></p>
 
 ## About Alwis Cruise
 
