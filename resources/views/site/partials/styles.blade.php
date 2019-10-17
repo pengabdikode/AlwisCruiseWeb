@@ -1,0 +1,231 @@
+
+<link
+rel="stylesheet"
+id="wp-block-library-css"
+href="{{asset('frontend/wp-includes/css/dist/block-library/style.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="wc-block-style-css"
+href="{{asset('frontend/wp-content/plugins/woocommerce/assets/css/blocks/style.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="contact-form-7-css"
+href="{{asset('frontend/wp-content/plugins/contact-form-7/includes/css/styles.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="rabbit_css-css"
+href="../../toolbar.qodeinteractive.com/_toolbar/assets/css/rbt-modules7752.css?ver=5.2.1"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="rs-plugin-settings-css"
+href="{{asset('frontend/wp-content/plugins/revslider/public/assets/css/settings.css')}}"
+type="text/css"
+media="all"
+/>
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {
+}
+</style>
+<link
+rel="stylesheet"
+id="setsail-membership-style-css"
+href="{{asset('frontend/wp-content/plugins/setsail-membership/assets/css/membership.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-membership-responsive-style-css"
+href="{{asset('frontend/wp-content/plugins/setsail-membership/assets/css/membership-responsive.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-select-modules-css"
+href="{{asset('frontend/wp-content/themes/setsail/assets/css/modules.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-tours-style-css"
+href="{{asset('frontend/wp-content/plugins/setsail-tours/assets/css/tours.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-select-modules-responsive-css"
+href="{{asset('frontend/wp-content/themes/setsail/assets/css/modules-responsive.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-tours-responsive-style-css"
+href="{{asset('frontend/wp-content/plugins/setsail-tours/assets/css/tours-responsive.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="nouislider-css"
+href="{{asset('frontend/wp-content/plugins/setsail-tours/assets/css/nouislider.min.css')}}"
+type="text/css"
+media="all"
+/>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required {
+  visibility: visible;
+}
+</style>
+<link
+rel="stylesheet"
+id="setsail-select-default-style-css"
+href="{{asset('frontend/wp-content/themes/setsail/style.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-dripicons-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/dripicons/dripicons.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-font_elegant-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/elegant-icons/style.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-font_awesome-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/font-awesome/css/fontawesome-all.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-ion_icons-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/ion-icons/css/ionicons.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-linea_icons-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/linea-icons/style.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-linear_icons-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/linear-icons/style.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="qodef-simple_line_icons-css"
+href="{{asset('frontend/wp-content/themes/setsail/framework/lib/icons-pack/simple-line-icons/simple-line-icons.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="mediaelement-css"
+href="{{asset('frontend/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="wp-mediaelement-css"
+href="{{asset('frontend/wp-includes/js/mediaelement/wp-mediaelement.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-select-woo-css"
+href="{{asset('frontend/wp-content/themes/setsail/assets/css/woocommerce.min.css')}}"
+type="text/css"
+media="all"
+/>
+<style id="setsail-select-woo-inline-css" type="text/css">
+.page-id-4515 .qodef-page-header .qodef-menu-area {
+  background-color: rgba(255, 255, 255, 0);
+}
+</style>
+<link
+rel="stylesheet"
+id="setsail-select-woo-responsive-css"
+href="{{asset('frontend/wp-content/themes/setsail/assets/css/woocommerce-responsive.min.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-select-style-dynamic-css"
+href="{{asset('frontend/wp-content/themes/setsail/assets/css/style_dynamic.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-select-style-dynamic-responsive-css"
+href="{{asset('frontend/wp-content/themes/setsail/assets/css/style_dynamic_responsive.css')}}"
+type="text/css"
+media="all"
+/>
+<link
+rel="stylesheet"
+id="setsail-select-google-fonts-css"
+href="https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%2C800%7CCatamaran%3A300%2C400%2C500%2C600%2C700%2C800%7CSatisfy%3A300%2C400%2C500%2C600%2C700%2C800&amp;subset=latin-ext&amp;ver=1.0.0"
+type="text/css"
+media="all"
+/>
+
+<style id="setsail-select-woo-inline-css" type="text/css">
+  .page-id-820
+    .qodef-content
+    .qodef-content-inner
+    > .qodef-container
+    > .qodef-container-inner,
+  .page-id-820
+    .qodef-content
+    .qodef-content-inner
+    > .qodef-full-width
+    > .qodef-full-width-inner {
+    padding: 0px;
+  }
+  .page-id-820
+    .qodef-content
+    .qodef-content-inner
+    > .qodef-container
+    > .qodef-container-inner,
+  .page-id-820
+    .qodef-content
+    .qodef-content-inner
+    > .qodef-full-width
+    > .qodef-full-width-inner {
+    padding: 0px;
+  }
+</style>
